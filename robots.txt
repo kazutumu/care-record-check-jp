@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://care-record-check-jp.kazutumu0.chatgpt.site/sitemap.xml

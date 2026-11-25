@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[3037,[],""]
+3:I[5448,[],""]
+:HL["/care-record-check-jp/_next/static/css/c6f586dd8bafb130.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/care-record-check-jp/_next/static/css/c6f586dd8bafb130.css","precedence":"next"}]],["$","html",null,{"lang":"ja","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EwoIc6PIJjWtIrKi8IzZV"}

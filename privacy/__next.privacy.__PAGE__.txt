@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[9763,[],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"legal","children":[["$","a",null,{"href":"/care-record-check-jp/","children":"← 介護記録チェックへ戻る"}],["$","h1",null,{"children":"プライバシー"}],["$","p",null,{"children":"入力した介護記録は、お使いのブラウザ内だけで確認されます。文章をサーバーへ送信・保存しません。氏名・住所・連絡先などの個人情報は、入力前に伏せ字へ置き換えることをおすすめします。"}],["$","p",null,{"children":"改善のため、「ページを開いた」「確認した」「結果をコピーした」という種類別の回数だけを日ごとに集計します。入力文章を保存せず、本ツール独自のCookieによる個人識別も行いません。"}],["$","p",null,{"children":"配信基盤（Cloudflare）は、不正アクセス対策のための短期的なセキュリティCookieを設定する場合があります。"}],["$","h2",null,{"children":"免責"}],["$","p",null,{"children":"このツールは記録の完全性、法令・施設基準への適合、医学的妥当性を保証しません。所属先の記録基準を優先してください。"}],["$","p",null,{"className":"legal-note","children":"最終更新：2026年8月30日"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EwoIc6PIJjWtIrKi8IzZV"}
+4:null
